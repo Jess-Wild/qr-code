@@ -1,0 +1,49 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    margin: auto;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+.container {
+    height: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+/*---SECTION---*/
+
+
+section{
+    background-color: hsl(0, 0%, 100%);
+    width: 25%;
+    border-radius: 4%;
+    padding: 1% 0;
+}
+
+img{
+    display: block;
+    width: 90%;
+    margin: auto;
+    border-radius: 5%;
+    
+}
+
+
+
+h1,p,.attribution{
+    text-align: center;
+    margin: 5% 9%;
+}
+
+p,.attribution{
+    color: hsl(212, 10%, 65%);
+}
+
+.attribution{
+    font-size: 10px;
+}
